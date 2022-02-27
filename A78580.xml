@@ -1,0 +1,196 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The character of a believing Christian. Set forth in paradoxes, and seeming contradictions.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78580</idno>
+            <idno type="STC">Wing C1962</idno>
+            <idno type="STC">Thomason E1182_2</idno>
+            <idno type="STC">ESTC R204910</idno>
+            <idno type="EEBO-CITATION">99864358</idno>
+            <idno type="PROQUEST">99864358</idno>
+            <idno type="VID">169438</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78580)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169438)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 167:E1182[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The character of a believing Christian. Set forth in paradoxes, and seeming contradictions.</title>
+               </titleStmt>
+               <extent>[4], 11, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed, for Richard Wodenothe, at the Star, under Peters Church in Cornhill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The first leaf is blank.</note>
+                  <note>Annotation on Thomason copy: "July 24".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169438:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 1 -->
+            <p>THE CHARACTER OF <hi>A believing Chriſtian.</hi>
+            </p>
+            <p>Set forth in <hi>Paradoxes,</hi> and ſeeming <hi>Contradictions.</hi>
+            </p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="imprimatur">
+                        <p>Imprimatur,</p>
+                        <closer>
+                           <signed>Joſeph Caryl.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed, for <hi>Richard Wodenothe,</hi> at the Star, under <hi>Peters</hi> Church in <hi>Cornhill</hi> 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="character">
+            <pb facs="tcp:169438:2"/>
+            <!-- PDF PAGE 2 -->
+            <pb n="1" facs="tcp:169438:2"/>
+            <!-- PDF PAGE 2 -->
+            <head>THE CHARACTER OF <hi>A believing Chriſtian.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">A</seg> Chriſtian is one that believeth things his reaſon cannot com<g ref="char:EOLhyphen"/>prehend, hee hopes for that which neither he nor any man alive ever ſaw, he laboureth for that hee knoweth he ſhall never obtain; yet in the iſſue his beliefe appears not to be falſe, his hopes make him not aſhamed, his labour is not in vain.</p>
+            <p>He believeth three to be one, and one to
+<pb n="2" facs="tcp:169438:3"/>
+               <!-- PDF PAGE 3 -->be three, a Father not to be elder then his Sonne, a Sonne to be equall with his Fa<g ref="char:EOLhyphen"/>ther and one proceeding from both to be equall with both: he believing three per<g ref="char:EOLhyphen"/>ſons in one nature, and two natures in one perſon.</p>
+            <p>Hee believeth a Virgin to be a mother of a Sonne, and that very Sonne of hers to be her maker: He believeth him to be ſhut up in a narrow roome, whom heaven and earth could not contain: He believeth him to be borne in time, who was and is from everlaſting: He believeth him to bee a weake childe carried in armes, who is the Almighty; and him once to have died, who onely hath life and immortality in himſelfe.</p>
+            <p>He believeth the God of Grace to have been angry with one, that never offended him, and that God that hates ſin, to be re<g ref="char:EOLhyphen"/>conciled to him though ſinning continual<g ref="char:EOLhyphen"/>ly, and never making, or being able to make him ſatisfaction: hee believeth a moſt juſt God to have puniſhed a moſt juſt
+<pb n="3" facs="tcp:169438:3"/>
+               <!-- PDF PAGE 3 -->perſon, &amp; to have iuſtified himſelf, though a moſt ungodly ſinner: hee doth believe himſelfe freely pardoned; and yet, ſuffici<g ref="char:EOLhyphen"/>ent ſatisfaction was made for him.</p>
+            <p>He believeth himſelfe to be precious in Gods ſight, and yet loaths himſelfe in his own, hee dares not juſtifie himſelfe (even in thoſe things wherein hee can finde no fault with himſelfe) and yet believeth God accepts him in thoſe ſervices, wherein he is able to finde many faults.</p>
+            <p>He praiſeth God for his juſtice and yet fears him for his mercie: he is ſo aſhamed, that he dares not open his mouth before God, and yet he comes with boldneſſe to God and askes any thing he needs, he is ſo humble as to acknowledge himſelfe to de<g ref="char:EOLhyphen"/>ſerve nothing but evill; and yet believeth God meaneth him all good: he is one that feareth always, and yet is as bold as a lyon: he is often ſorrowfull, yet always rejoyceing; many times complaining, yet always giving of thanks: he is the moſt lowly minded, yet the greateſt aſpirer,
+<pb n="4" facs="tcp:169438:4"/>
+               <!-- PDF PAGE 4 -->moſt contented yet ever craving.</p>
+            <p>He beareth a lofty ſpirit in a mean condi<g ref="char:EOLhyphen"/>tion, when he is ableſt he thinks meaneſt of himſelfe: he is rich in poverty, and poore in the midſt of riches: he believeth all the world to be his, yet he dares take nothing without leave from God: he covenants with God for nothing, yet looks for a great reward.</p>
+            <p>He loſeth his life and gains by it, and while he loſeth it he ſaveth it: he liveth not to himſelf, yet of all others he is moſt wiſe for himſelfe: he denyeth himſelfe often, yet no man loves himſelfe ſo well as hee: he is moſt reproached, yet moſt honoured: he hath moſt afflictions, and moſt comforts, the more injury his enemies doe him, the more advantages he gains by them: the more he forſakes worldly things, the more he enjoyeth them.</p>
+            <p>He is the moſt temperate of all men, yet fairs moſt deliciouſly, he lends and gives moſt freely, yet is the greateſt uſurer: he is meeke towards all men, and yet is inexora<g ref="char:EOLhyphen"/>ble
+<pb n="5" facs="tcp:169438:4"/>
+               <!-- PDF PAGE 4 -->by men, he is the beſt childe, husband, friend, and yet he hates father and mother, brother and ſiſter, he loves all men as him<g ref="char:EOLhyphen"/>ſelf, yet hates men ſo with a perfect hatred.</p>
+            <p>He deſireth to have more grace then any one hath in the world, yet is truly ſorow<g ref="char:EOLhyphen"/>full, when he ſeeth any have leſſe then himſelfe: hee knoweth no man after the fleſh, yet he giveth all men their due re<g ref="char:EOLhyphen"/>ſpect: he knoweth if he pleaſe man, he can<g ref="char:EOLhyphen"/>not be a ſervant of Chriſts, yet for Chriſts ſake he pleaſeth all men in all things: he is a peacemaker, yet is continually a fighter.</p>
+            <p>He believeth him to be worſe then an in<g ref="char:EOLhyphen"/>fidell that provides not for his family, yet himſelfe liveth and dyeth without care: he counts all his ſuperiours, yet ſtands ſtifly on no authority: he is ſevere to his chil<g ref="char:EOLhyphen"/>dren becauſe he loveth them, and by being favourable to his enemies, hee avengeth himſelfe upon them.</p>
+            <p>Hee believeth the Angels to bee more excellent creatures then himſelfe, and yet counteth them his ſervants: he believeth
+<pb n="6" facs="tcp:169438:5"/>
+               <!-- PDF PAGE 5 -->he receiveth many good things by their means, and yet neither prayeth for their aſſiſtance nor offers them thanks, which he doth not diſdain to doe to the meaneſt Chriſtian.</p>
+            <p>He believeth himſelfe to be a King, how mean ſoever he be; and how great ſoever he be, yet he thinketh himſelfe not too good to be a ſervant to the pooreſt Saint.</p>
+            <p>He is often in priſon yet always at liber<g ref="char:EOLhyphen"/>ty, hee is a free man though a ſervant: he loveth not honour among men, yet highly prizeth a good name.</p>
+            <p>He believeth that God hath bidden eve<g ref="char:EOLhyphen"/>ry man that doth him good to doe ſo, he yet of any man is the moſt thankfull, to them that doe ought for him, hee would lay down his life to ſave the ſoule of his enemie, yet will not venture on one ſin, to ſave the life of him that ſaved his; he ſwea<g ref="char:EOLhyphen"/>reth to his own hinderance, and changeth not, he knoweth his oath cannot tye him to ſin.</p>
+            <p>He believeth Chriſt to have no need of
+<pb n="7" facs="tcp:169438:5"/>
+               <!-- PDF PAGE 5 -->any thing he doth, yet makes account that he doth relieve Chriſt in all the acts of charity: he knoweth he can doe nothing of himſelfe, yet laboureth to worke out his own ſalvation: he profeſſeth he can doe nothing, yet as truly profeſſeth he can doe all things: he knoweth that fleſh and bloud cannot inherit the Kingdome of God, yet believeth he ſhall go to heaven, both body and ſoule.</p>
+            <p>He trembleth at Gods word, and yet counts it ſweeter to him then the honey and the honey combe, and dearer then thouſands of gold and ſilver: he believeth that God will never damne him, and yet feareth God for being able to caſt him in<g ref="char:EOLhyphen"/>to hell: he knoweth he ſhall not be ſaved by nor for his good works, yet doth all the good works he can.</p>
+            <p>He knoweth Gods providence in all things, yet is he diligent in his calling and buſineſſe, as if he were to cut out the threed of his hap, he believeth before hand that God purpoſed what he ſhall be, and that
+<pb n="8" facs="tcp:169438:6"/>
+               <!-- PDF PAGE 6 -->nothing can alter his purpoſe, and yet prayeth and endeavoureth, as if he would force God to ſave him for ever.</p>
+            <p>He prayeth and laboureth for that which he is confident God meaneth to give, and the more aſſured he is the more earneſt he prayeth for that which he knoweth he ne<g ref="char:EOLhyphen"/>ver ſhall obtain, and yet gives not over, he prayeth and laboureth for that, which he knoweth hee ſhall not be leſſe happy without: he prayeth with all his heart not to be lead into temptation, yet rejoyceth when he is fallen into it, he believeth his prayers are heard, even when they are de<g ref="char:EOLhyphen"/>nied, and giveth thanks for that, which he prayeth againſt.</p>
+            <p>He hath within both fleſh and ſpirit, and yet he is not a double-minded man, hee is often led captive by the law of ſin, yet it never gets dominion over him, hee cannot ſin, yet can doe nothing without ſin, hee doth nothing againſt his will, yet main<g ref="char:EOLhyphen"/>tains: he doth what he would not, he wa<g ref="char:EOLhyphen"/>vereth, and doubteth, yet obtaineth.</p>
+            <pb n="9" facs="tcp:169438:6"/>
+            <!-- PDF PAGE 6 -->
+            <p>He is often toſſed and ſhaken, yet is as mount <hi>Zion,</hi> hee is a Serpent, and a Dove; a Lambe, and a Lion, a Reed, and a Cedar: he is ſometimes ſo troubled that hee think<g ref="char:EOLhyphen"/>eth nothing to be true in Religion, yet if he did think ſo, he could not at all be trou<g ref="char:EOLhyphen"/>bled: hee thinks ſometimes that God hath no mercie for him, yet reſolveth to die in the purſuite of it. Hee believeth like <hi>Abra<g ref="char:EOLhyphen"/>ham</hi> againſt hope, and though hee cannot anſwer Gods Logick, yet with the woman of <hi>Canaan,</hi> hee hopes to prevaile with the Rhetorick of importunitie.</p>
+            <p>He wreſtleth &amp; yet prevaileth, &amp; though yielding himſelfe unworthy of the leaſt bleſſing he enjoyeth, yet <hi>Jacob</hi> like he will not let him go without a new bleſſing.</p>
+            <p>He ſometimes thinketh himſelf to have no grace at all, and yet how poore and af<g ref="char:EOLhyphen"/>flicted ſoever he be beſides: hee would not change conditions, with the moſt pro<g ref="char:EOLhyphen"/>ſperous man under heaven, that is a mani<g ref="char:EOLhyphen"/>feſt worldling.</p>
+            <p>He thinketh ſometimes the Ordinances
+<pb n="10" facs="tcp:169438:7"/>
+               <!-- PDF PAGE 7 -->of God do him no good, yet he would ra<g ref="char:EOLhyphen"/>ther part with his life, then be deprived of them, hee was borne dead: yet ſo as it had been murther for any to have taken his life away. After he began to live he was a dy<g ref="char:EOLhyphen"/>ing, and though he hath an eternall life be<g ref="char:EOLhyphen"/>gun in him, yet he maketh account he hath a death to paſſe thorough.</p>
+            <p>He counts ſelf-murther a hainons ſinne, yet is ever buſied in crucifying the fleſh: and in putting to death his earthly mem<g ref="char:EOLhyphen"/>bers.</p>
+            <p>Hee believeth his ſoule and bodie to be as full of glorie, as them that have more, and no more full then theirs that have leſs.</p>
+            <p>Hee liveth inviſible to thoſe that ſee him, and thoſe that know him beſt, doe but gueſſe at him, yet thoſe many times, judge more truly of him then hee doth of himſelf, the world will ſometimes count him a Saint, when God accounted him an Hypocrite, and afterwards when the world branded him for an Hypocrite, then God owned him for a Saint.</p>
+            <pb n="11" facs="tcp:169438:7"/>
+            <!-- PDF PAGE 7 -->
+            <p>His death maketh not an end of him, his ſoule which was put into his bodie; is not to be perfected without his bodie, yet his ſoule is more happy when it is ſepara<g ref="char:EOLhyphen"/>ted from his bodie: then when his bodie was joyned to it, and his bodie though torn in pieces, burnt in aſhes, ground to powder, turned to rottenneſſe ſhall be no loſer.</p>
+            <p>His Advocate, his Suretie ſhall be his Judge, his mortall ſhall become immortall, and what was ſowne in corruption, and de<g ref="char:EOLhyphen"/>filement, ſhall be raiſed in incorruption and glorie, and a finite creature, ſhall poſſeſſe an infinite happineſſe, glorie be to God.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
